@@ -3,7 +3,7 @@ name = "qa-guru-lesson-16"
 version = "1.0.0"
 description = "Project with poetry"
 authors = [
-    {name = "Ilia Shebanov"}
+    {name = "Ilia Shebanov",email = "ilya.shebanoff@gmail.com"}
 ]
 readme = "README.md"
 requires-python = ">=3.13,<4.0"
